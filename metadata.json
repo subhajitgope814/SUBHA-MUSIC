@@ -1,0 +1,6 @@
+{
+  "name": "Music Hub",
+  "description": "Modern Full-Stack Music Streaming Web Application with Jamendo API v3, Supabase Auth/Database, Audio Player, Playlists, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
